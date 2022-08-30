@@ -1,7 +1,7 @@
 迷宫辅助
 ## 说明
 * 这是用于让玩家更轻松地打通凯瑞尔迷宫，从而获得卡背的辅助工具。
-* [百度网盘下载](链接：https://pan.baidu.com/s/1ff__bchLlMCYGFNYkj40OA?pwd=ydyd)
+* [百度网盘下载](https://pan.baidu.com/s/1ff__bchLlMCYGFNYkj40OA?pwd=ydyd)
 ## 使用方法
 1. 启动`hs_maze.exe`时，会检查炉石的日志配置文件。若提示重启，需重启游戏。
 2. 右击窗口，详细阅读说明，按照提示的步骤操作。操作熟练的话，可以在30分钟内通关。
